@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDivisible", "CountDivi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPassingCars", "CheckPassingCars\CheckPassingCars.csproj", "{F6218387-10A6-46C1-8A51-42504B79EC71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomicRangeQuery", "GenomicRangeQuery\GenomicRangeQuery.csproj", "{9ECD2B12-D642-4065-9277-3EC7144D801A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F6218387-10A6-46C1-8A51-42504B79EC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6218387-10A6-46C1-8A51-42504B79EC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6218387-10A6-46C1-8A51-42504B79EC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECD2B12-D642-4065-9277-3EC7144D801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECD2B12-D642-4065-9277-3EC7144D801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECD2B12-D642-4065-9277-3EC7144D801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECD2B12-D642-4065-9277-3EC7144D801A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
